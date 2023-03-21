@@ -11,13 +11,16 @@
 
 ## Pradnyesh's GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Pradnyesh2711&show_icons=true&theme=radical&hide_title=true" alt="Pradnyesh's Github stats"/>
-<!-- ![Pradyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar787&show_icons=true&theme=radical&hide_title=true) -->
 
 
-## Pradnyesh's most used languages on Github
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradnyesh2711&show_icons=true&locale=en&layout=compact" alt="Pradnyesh2711" /></p>
 
-![Pradnyesh's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=Pradnyesh2711&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradnyesh2711&show_icons=true&locale=en" alt="Pradnyesh2711" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradnyesh2711&" alt="Pradnyesh2711" /></p>
+
+
 
 
 
